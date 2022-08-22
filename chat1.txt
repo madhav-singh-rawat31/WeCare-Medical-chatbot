@@ -1,0 +1,40 @@
+Patient information:
+
+Name: Madhav Rawat
+Age: 21
+Gender/Sex: male
+Contact: 8383807245
+________________________________
+
+
+Chats:
+
+You: hi
+
+WeCare: hey!
+
+You: who are you?
+
+WeCare: i am Webot!
+
+You: i got runny nose
+
+WeCare: It seems that you are suffering from common cold
+
+You: medicines for common cold
+
+WeCare: medicines you can consume : Dextromethorphan,Decongestant,Diphenhydramine,Crocin Cold & Flu Max, preventions that you must follow :Wash your hands,Avoid touching your face,Clean frequently used surfaces,Use hand sanitizers,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup
+
+You: doctor suggestion
+
+WeCare: You can contact various doctors here for any kind of consultation: 1. https://www.1mg.com/online-doctor-consultation, 2. https://www.tatahealth.com/online-doctor-consultation/general-physician, 3. https://www.doconline.com/, or you can pay a visit to your local area doctor or family doctor.
+
+
+_________
+
+[Chat saved on:  Sun, 'May 22, 2022'  at  '04:00:31 PM']
+
+
+________________________________
+Warning: 
+All the information provided by this application is very basic. It is very important to consult your family doctor and consume medicines with doctor's advise.
